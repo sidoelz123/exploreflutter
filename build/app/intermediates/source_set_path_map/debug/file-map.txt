@@ -1,0 +1,13 @@
+br.com.williamfranco.provider_mvvm_example.app-jetified-annotation-experimental-1.1.0-0 /home/ijaa76/.gradle/caches/transforms-3/0f39e0326591f0da254073a189a71a1f/transformed/jetified-annotation-experimental-1.1.0/res
+br.com.williamfranco.provider_mvvm_example.app-core-1.6.0-1 /home/ijaa76/.gradle/caches/transforms-3/3e018c854ace5a7f5e283e7bc5b17f87/transformed/core-1.6.0/res
+br.com.williamfranco.provider_mvvm_example.app-jetified-window-1.0.0-beta04-2 /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/res
+br.com.williamfranco.provider_mvvm_example.app-jetified-window-java-1.0.0-beta04-3 /home/ijaa76/.gradle/caches/transforms-3/d5f475642f22859b33a5aac96dfb96e6/transformed/jetified-window-java-1.0.0-beta04/res
+br.com.williamfranco.provider_mvvm_example.app-debug-4 /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/res
+br.com.williamfranco.provider_mvvm_example.app-main-5 /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/res
+br.com.williamfranco.provider_mvvm_example.app-pngs-6 /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/app/generated/res/pngs/debug
+br.com.williamfranco.provider_mvvm_example.app-resValues-7 /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/app/generated/res/resValues/debug
+br.com.williamfranco.provider_mvvm_example.app-rs-8 /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/app/generated/res/rs/debug
+br.com.williamfranco.provider_mvvm_example.app-mergeDebugResources-9 /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+br.com.williamfranco.provider_mvvm_example.app-mergeDebugResources-10 /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+br.com.williamfranco.provider_mvvm_example.app-merged_res-11 /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/app/intermediates/merged_res/debug
+br.com.williamfranco.provider_mvvm_example.app-packaged_res-12 /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/shared_preferences_android/intermediates/packaged_res/debug

@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:6:4-36:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /home/ijaa76/.gradle/caches/transforms-3/3e018c854ace5a7f5e283e7bc5b17f87/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/ijaa76/.gradle/caches/transforms-3/3e018c854ace5a7f5e283e7bc5b17f87/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ijaa76/.gradle/caches/transforms-3/4c6ac94c86519179f4899e91dca6f342/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ijaa76/.gradle/caches/transforms-3/4c6ac94c86519179f4899e91dca6f342/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/ijaa76/.gradle/caches/transforms-3/3e018c854ace5a7f5e283e7bc5b17f87/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [:shared_preferences_android] /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/d5f475642f22859b33a5aac96dfb96e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ijaa76/.gradle/caches/transforms-3/c64fb5b45cc9793eea9052e02caefb76/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/2c15d6f98629befbff2080667a1d11a1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/22cf97edad08ee94946c5280bf5f36f5/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/525a14bc65dbbe7ebd9ee0fb24f07d82/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/fc78bb10962af9151a9f14603c7bb48a/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/ijaa76/.gradle/caches/transforms-3/3e018c854ace5a7f5e283e7bc5b17f87/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/ijaa76/.gradle/caches/transforms-3/5495ad51a6e630bc70293cf9745fe7cc/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/724262c062e5cb9d4a0eea82024436f8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/f8211287438a59f7b5695af849a97d26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/3c930a0f7a2127681570181df1b23345/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/3aa1abe89404ee259d5185b409507334/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/8d6b534c25e40814936a31a59409a9e0/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ijaa76/.gradle/caches/transforms-3/4c6ac94c86519179f4899e91dca6f342/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ijaa76/.gradle/caches/transforms-3/9b21aadb069f7401a100b56941b8dfce/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/ijaa76/.gradle/caches/transforms-3/0f39e0326591f0da254073a189a71a1f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:2:5-57
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-sdk
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /home/ijaa76/Downloads/FDM/provider-mvvm-example/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/d5f475642f22859b33a5aac96dfb96e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/d5f475642f22859b33a5aac96dfb96e6/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ijaa76/.gradle/caches/transforms-3/c64fb5b45cc9793eea9052e02caefb76/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ijaa76/.gradle/caches/transforms-3/c64fb5b45cc9793eea9052e02caefb76/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/2c15d6f98629befbff2080667a1d11a1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/2c15d6f98629befbff2080667a1d11a1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/22cf97edad08ee94946c5280bf5f36f5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/22cf97edad08ee94946c5280bf5f36f5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/525a14bc65dbbe7ebd9ee0fb24f07d82/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/525a14bc65dbbe7ebd9ee0fb24f07d82/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/fc78bb10962af9151a9f14603c7bb48a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/fc78bb10962af9151a9f14603c7bb48a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/ijaa76/.gradle/caches/transforms-3/3e018c854ace5a7f5e283e7bc5b17f87/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/ijaa76/.gradle/caches/transforms-3/3e018c854ace5a7f5e283e7bc5b17f87/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/ijaa76/.gradle/caches/transforms-3/5495ad51a6e630bc70293cf9745fe7cc/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/ijaa76/.gradle/caches/transforms-3/5495ad51a6e630bc70293cf9745fe7cc/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/724262c062e5cb9d4a0eea82024436f8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/724262c062e5cb9d4a0eea82024436f8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/f8211287438a59f7b5695af849a97d26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/f8211287438a59f7b5695af849a97d26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/3c930a0f7a2127681570181df1b23345/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/3c930a0f7a2127681570181df1b23345/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/3aa1abe89404ee259d5185b409507334/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/ijaa76/.gradle/caches/transforms-3/3aa1abe89404ee259d5185b409507334/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/8d6b534c25e40814936a31a59409a9e0/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ijaa76/.gradle/caches/transforms-3/8d6b534c25e40814936a31a59409a9e0/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ijaa76/.gradle/caches/transforms-3/4c6ac94c86519179f4899e91dca6f342/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ijaa76/.gradle/caches/transforms-3/4c6ac94c86519179f4899e91dca6f342/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ijaa76/.gradle/caches/transforms-3/9b21aadb069f7401a100b56941b8dfce/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ijaa76/.gradle/caches/transforms-3/9b21aadb069f7401a100b56941b8dfce/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/ijaa76/.gradle/caches/transforms-3/0f39e0326591f0da254073a189a71a1f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/ijaa76/.gradle/caches/transforms-3/0f39e0326591f0da254073a189a71a1f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ijaa76/Downloads/FDM/provider-mvvm-example/android/app/src/debug/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/ijaa76/.gradle/caches/transforms-3/5524bcae8b436957b4f68648622e37f0/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
